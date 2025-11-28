@@ -1,13 +1,13 @@
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-    Senior Full Stack Developer
+    AI Engineer and Full Stack Developer
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
-- 👋 Hi, My name is Alex Petrovic.
-- 👀 I’m a Blockchain and full-stack web developer.
-- 📫 And I'm also ChatGPt expert.
-- 🌱 I have rich experience with blockchain technologies, Front-end and Back-end.
+- 👋 Hi, This is Stevan.
+- 👀 I’m great skilled AI Engineer.
+- 📫 And I'm also Blockchain expert.
+- 🌱 I have rich experience with Front-end and Back-end.
 
 <h3>🏆 Github Profile Trophy</h3>
 <p align="center">
@@ -60,23 +60,3 @@
 <code><img height="45" src="https://camo.githubusercontent.com/add2c9721e333f0043ac938f3dadbc26a282776e01b95b308fcaba5afaf74ae3/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313538383830353835382f7265706f7369746f726965732f76657263656c2f6c6f676f2e706e67"></code>
 <code><img height="45" src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/microsoft_windows-512.png"></code>
 <code><img height="45" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-
-<br />
-
-<div align="center">
-  <h2>
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-      How to reach me
-    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  </h2>
-  <br />
-  
-  <div align="center">
-    <img src="https://img.icons8.com/color/2x/skype.png"  width="40" alt="id: live:.cid.43dc0f9cf97bf41" title="id: live:.cid.43dc0f9cf97bf41"/>
-    &nbsp;&nbsp;
-<!--     <img src="https://img.icons8.com/color/2x/telegram-app.png"  width="40" alt="superdev0829" title="superdev0829"/>
-    &nbsp;&nbsp; -->
-    <img src="https://img.icons8.com/color/2x/discord.png"  width="40" alt="goldensnake_" title="goldensnake_"/>
-    &nbsp;&nbsp;
-  </div>
-</div>
