@@ -13,9 +13,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=kanbei0605&column=7&theme=onedark"/>
 </p>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=kanbei0605&langs_count=8&layout=compact&theme=tokyonight&include_all_commits=true&line_height=27">
-</p>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20developer;enough%20working%20experience&width=380&height=45">
