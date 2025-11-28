@@ -27,7 +27,7 @@
 - 💬 Language : HTML, CSS, Javascript, Typescript, Ruby, Python, PHP, Solidity, Rust
 - 📫 Interesting : AI, Blockchain
 
-## Languagers & Tools
+## Languages & Tools
 
 <code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs8Blzp6aega6pMnSJ_l9X6c_tUHTGJ3YiEZ1raKjYe08Ihuw07LTHexzHkwlsI9hZhTk&usqp=CAU"></code>
 <code><img height="45" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmI7XX65yG1TKMJhJaAXnYp2Dn48bVOqP7wNByu2A9Jdx2FRIm9EOLb-RqhKKLyK1Vwxc&usqp=CAU"></code>
